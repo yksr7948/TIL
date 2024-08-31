@@ -15,6 +15,8 @@
 ### JSX (JavaScript XML)
 > JSX는 JavaScript에 XML/HTML 구문을 추가한 확장 문법으로, React 컴포넌트를 정의할 때 자주 사용됨. <br>
 > JSX를 사용하면 HTML과 유사한 문법으로 UI를 정의할 수 있으며, 이 코드가 JavaScript 코드로 변환되어 브라우저에서 실햄됨.
+>
+> ![alt text](img/jsxCode.png)
 
 ### 가상 DOM (Virtual DOM)
 > React는 가상 DOM을 사용하여 UI를 업데이트 한다. 가상 DOM은 메모리 내에서 존재하는 가벼운 DOM의 사본 <br>
@@ -29,6 +31,8 @@
 
 ### React Hooks
 > 함수형 컴포넌트에서 상태와 라이프사이클 메서드를 사용할 수 있게 해줌. "useState", "useEffect" 같은 훅을 통해 상태 관리, 사이드 이펙트 관리 등을 할 수 있다.
+> 
+> ![alt text](img/hooksCode.png)
 ----------
 <br>
 
