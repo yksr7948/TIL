@@ -1,6 +1,7 @@
 # SummerNote 이미지 파일 업로드 하기
 
 오늘은 프로젝트에 텍스트 에디터를 추가하는 방법에 대해 공부했다.
+
 SummerNote는 JQury와 BootStrap 기반으로 만들어진 오픈소스 프로젝트이다.
 
 <br><br>
