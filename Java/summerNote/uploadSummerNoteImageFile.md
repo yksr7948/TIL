@@ -74,6 +74,15 @@ Ajax로 전달한 데이터를 controller에서 받아주었다. 여기서는 �
 
 여기에서 404에러가 많이 났는데 AJax에서 data.url에 앞에 contextPath를 빼먹어서 404에러가 났었다.
 
+<hr>
+<br><br>
+
+## 마무리!
+
+![image](https://github.com/user-attachments/assets/6f5adbc2-405d-413d-98fd-dbc0f2a72428)
+
+src가 base64의 무진장 긴 코드에서 내가 원하는 짧은 changeName으로 변경된 것을 확인할 수 있다.
+
 
 
 
