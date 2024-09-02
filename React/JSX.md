@@ -1,6 +1,6 @@
 # JSX란?
 
-## 정의
+## :page_with_curl: 정의
 JSX는(JavaScript eXtension)는 JavaScript를 확장한 문법이다. 자바스크립트에서 HTML을 작성하듯이 하기 때문에 가독성이 좋고 작성하기 쉽다.
 - 리액트로 프로젝트를 개발할 때 사용되므로 공식적인 자바스크립트 문법은 아니다.
 - 브라우저에서 실행하기 전에 바벨을 사용하여 일반 자바스크립트 형태의 코드로 변환된다.
@@ -22,7 +22,7 @@ function App() {
 
 <br>
 
-## JSX 문법
+## :star: JSX 문법
 - 컴포넌트에 여러 요소가 있다면 부모 요소 하나로 감싸는 형태로 만들어야 한다.
 ```JavaScript
 function App(){
@@ -121,5 +121,3 @@ JSX
 // 혹은 다음과 같이 self-closing 태그로 작성해도 무방
 <input />
 ```
-
-<hr>
